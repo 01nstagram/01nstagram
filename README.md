@@ -1,4 +1,4 @@
-![meu banner brabo](https://imgur.com/a/zrXZ42s)
+![meu banner brabo](https://i.imgur.com/qs73xzZ.jpeg)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=header"/>
 
